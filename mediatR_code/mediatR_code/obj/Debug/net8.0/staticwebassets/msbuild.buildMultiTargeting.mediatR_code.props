@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mediatR_code.props" />
+</Project>
